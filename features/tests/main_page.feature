@@ -1,4 +1,4 @@
-Feature: test cases for the main page
+Feature: test cases for hurricane insurance page
 
     Scenario: User can see required when leave the zip code 
         Given Open the main page
